@@ -1,5 +1,5 @@
 module Findable 
   
   
-  def find_by_name
+ # def find_by_name
 end
